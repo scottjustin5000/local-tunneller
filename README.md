@@ -3,7 +3,7 @@
 > Small utility to quickly spin up an ec-2 instance for local tunnelling. We use a cloudformation template to create our ec-2 instance and runs script to enable port forwarding.
 
 ### Prerequisites
-An AWS account with permissions to create ec-2 instances.  It is also assummed that AWS key id and access key are set in the environment. Finally, to set up the ec-2 instance it is also required a valid key-pair exists.
+An AWS account with permissions to create ec-2 instances.  It is also assumed that AWS key id and access key are set in the environment. Finally, to set up the ec-2 instance it is also required a valid key-pair exists.
 
 ### Usage
 To set up an instance for tunnelling run the following:
