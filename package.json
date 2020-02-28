@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/scottjustin5000/local-tunneller.git"
   },
-  "author": "sportradar",
+  "author": "scottjustin5000",
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.470.0",
