@@ -16,7 +16,7 @@
   "author": "scottjustin5000",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.470.0",
+    "aws-sdk": "^2.814.0",
     "minimist": "^1.2.3"
   },
   "devDependencies": {
